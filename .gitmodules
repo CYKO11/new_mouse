@@ -1,0 +1,3 @@
+[submodule "project/Adafruit_ADS1X15"]
+	path = project/Adafruit_ADS1X15
+	url = https://github.com/adafruit/Adafruit_ADS1X15.git

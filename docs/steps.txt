@@ -1,0 +1,1 @@
+Step 1) setup anologue reading using raspberry pi zero and DS1115
