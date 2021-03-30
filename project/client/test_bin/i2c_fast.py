@@ -10,7 +10,7 @@ from adafruit_ads1x15.analog_in import AnalogIn
 
 # Data collection setup
 RATE = 860
-SAMPLES = 1000
+SAMPLES = 2000
 
 # Create the I2C bus with a fast frequency
 # NOTE: Your device may not respect the frequency setting
