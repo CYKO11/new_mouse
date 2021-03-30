@@ -8,3 +8,4 @@ EEC circuits will connect to Electrodes placed inside the headband in your heads
 
 EEC circuit documentation can be found at : https://www.instructables.com/DIY-EEG-and-ECG-Circuit
 The downloaded pdf can be found in the documentation folder
+
