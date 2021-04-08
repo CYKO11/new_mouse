@@ -1,3 +1,0 @@
-Step 1) setup anologue reading using raspberry pi zero and DS1115
-        - learn iC2 protocol (done)
-        - build ic2 protocol module for rpi (currently in progress)
