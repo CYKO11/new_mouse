@@ -1,13 +1,13 @@
 # new_mouse
 This project is to create a brain computer interface using EEC.
+EEC circuits will connect to Electrodes placed inside the headband in your headset (theoretically).
 
-EEC circuits will connect to Electrodes placed inside the headband in your headset (theoretically). 
-EEC circuit documentation can be found in the docs folder
+Further documentation can be found in the docs folder
 
 # Deployment
 
 Server :
-for server deployment run : ./project/deploy.sh server
+For server deployment run : ./project/deploy.sh server
 
 Client :
 For client deployment on remote raspberry pi run : ./project/deploy.sh <pi ip adress> 
