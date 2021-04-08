@@ -5,7 +5,7 @@ then
     while [ $1 ]
     do
         # server setup
-        python3 ./server/main.py &
+        python3 ./server/main.py
 
         echo "press enter to restart server"
         read
